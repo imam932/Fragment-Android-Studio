@@ -5,4 +5,4 @@ This project deals with learning how to create layouts using **fragments** in an
 
 
 ## Demo
-![Demo](https://github.com/imam932/Fragment-Android-Studio/blob/master/video/vid_demo.gif)
+<img src="https://github.com/imam932/Fragment-Android-Studio/blob/master/video/vid_demo.gif" width="350" height="720" />
